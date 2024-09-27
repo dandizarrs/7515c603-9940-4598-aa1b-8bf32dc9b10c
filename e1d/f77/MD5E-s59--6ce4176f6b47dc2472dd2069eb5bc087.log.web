@@ -1,0 +1,6 @@
+1727450208s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/general/intracellular_ephys/sweep_table/series_index/1?versionId=atB3_OrwHnrN7sezvUtuyd5eZro2AUi8
+1727450208s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=general%2Fintracellular_ephys%2Fsweep_table%2Fseries_index%2F1&download=true
+1727450250s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/intervals/epochs/id/1?versionId=rLZoPA0cG4uv0I8d_fuV2dE711ZtM8lD
+1727450250s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=intervals%2Fepochs%2Fid%2F1&download=true
+1727450251s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/intervals/epochs/timeseries_index/1?versionId=HcMPh3P8mjTD5CEpTyL1_F9a9TwUaijg
+1727450251s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=intervals%2Fepochs%2Ftimeseries_index%2F1&download=true

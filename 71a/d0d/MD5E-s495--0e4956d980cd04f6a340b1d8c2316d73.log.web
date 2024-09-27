@@ -1,0 +1,4 @@
+1727450208s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/general/intracellular_ephys/sweep_table/id/.zarray?versionId=rwgmv4FXgagOotGUmlN9oVqzu7zCAXee
+1727450208s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=general%2Fintracellular_ephys%2Fsweep_table%2Fid%2F.zarray&download=true
+1727450208s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/general/intracellular_ephys/sweep_table/series_index/.zarray?versionId=s5Z04YpHFVFKnGcqtF2cQcf.OASvZLlo
+1727450208s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=general%2Fintracellular_ephys%2Fsweep_table%2Fseries_index%2F.zarray&download=true

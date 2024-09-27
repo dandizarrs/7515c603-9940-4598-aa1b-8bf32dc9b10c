@@ -1,0 +1,4 @@
+1727450250s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/intervals/epochs/id/8?versionId=0nOgP7vUIVgXiHeQlm9LD.24X4mwEJZl
+1727450250s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=intervals%2Fepochs%2Fid%2F8&download=true
+1727450251s 1 https://dandiarchive.s3.amazonaws.com/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/intervals/epochs/timeseries_index/8?versionId=2umBd4oh7rqJfE58i1QPH3H1sQyw8pAg
+1727450251s 1 https://api.dandiarchive.org/api/zarr/7515c603-9940-4598-aa1b-8bf32dc9b10c/files?prefix=intervals%2Fepochs%2Ftimeseries_index%2F8&download=true
